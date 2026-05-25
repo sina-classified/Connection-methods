@@ -61,12 +61,13 @@ A curated list of tools, research projects, and techniques used to maintain acce
 
 1. [MahsaNG](https://github.com/GFW-knocker/MahsaNG)
 2. [Psiphon](https://github.com/Psiphon-Labs/psiphon-tunnel-core)
-3. [Psiphon Android](https://github.com/Psiphon-Inc/psiphon-android)
-4. [uTLS](https://github.com/refraction-networking/utls)
-5. [zapret](https://github.com/bol-van/zapret)
-6. [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
-7. [ByeDPI](https://github.com/hufrea/byedpi)
-8. [Geneva](https://github.com/Kkevsterrr/geneva)
+3. [shirokhorshid](https://github.com/shirokhorshid/shirokhorshid-android)
+4. [Psiphon Android](https://github.com/Psiphon-Inc/psiphon-android)
+5. [uTLS](https://github.com/refraction-networking/utls)
+6. [zapret](https://github.com/bol-van/zapret)
+7. [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
+8. [ByeDPI](https://github.com/hufrea/byedpi)
+9. [Geneva](https://github.com/Kkevsterrr/geneva)
 
 ---
 # Monitoring tools and Radar
