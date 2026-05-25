@@ -13,7 +13,7 @@ A curated list of tools, research projects, and techniques used to maintain acce
 
 1. [MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN)
 2. [WhiteDNS](https://github.com/iampedii/WhiteDNS)
-3. [TheFeed](https://gitlab.com/sartoopjj/thefeed)
+3. [TheFeed](https://github.com/sartoopjj/thefeed)
 
 ---
 
