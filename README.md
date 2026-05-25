@@ -29,14 +29,14 @@ A curated list of tools, research projects, and techniques used to maintain acce
 
 ---
 
-# Personal Server + CDN Methods
+#  Socks over Google Drive + Personal Server 
 
 1. [GooseRelayVPN](https://github.com/Kianmhz/GooseRelayVPN)
 2. [Skirk](https://github.com/ShahabSL/Skirk)
 3. [FlowDriver](https://github.com/NullLatency/FlowDriver)
 
 ---
-# HTTP Relay / XHTTP / Edge Tunnel Methods
+# HTTP Relay / XHTTP / Edge Tunnel Methods + Personal Server
 1. [XHTTPRelayECO](https://github.com/B3hnamR/XHTTPRelayECO)
 2. [XHTTPRelay](https://github.com/B3hnamR/XHTTPRelay)
 
