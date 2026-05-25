@@ -36,7 +36,7 @@ A curated list of tools, research projects, and techniques used to maintain acce
 3. [FlowDriver](https://github.com/NullLatency/FlowDriver)
 
 ---
-# HTTP Relay / XHTTP / Edge Tunnel Methods + Personal Server
+# HTTP Relay / XHTTP  + Personal Server
 1. [XHTTPRelayECO](https://github.com/B3hnamR/XHTTPRelayECO)
 2. [XHTTPRelay](https://github.com/B3hnamR/XHTTPRelay)
 
