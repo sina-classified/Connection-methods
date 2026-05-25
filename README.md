@@ -59,6 +59,10 @@ A curated list of tools, research projects, and techniques used to maintain acce
 8. [Geneva](https://github.com/Kkevsterrr/geneva)
 
 ---
+# TOOLS
+1. [BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel)
+
+---
 
 # Related Techniques
 
