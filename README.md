@@ -35,11 +35,15 @@ A curated list of tools, research projects, and techniques used to maintain acce
 3. [FlowDriver](https://github.com/FlowSeal/FlowDriver)
 
 ---
+# HTTP Relay / XHTTP / Edge Tunnel Methods
+[XHTTPRelayECO](https://github.com/B3hnamR/XHTTPRelayECO)
+[XHTTPRelay](https://github.com/B3hnamR/XHTTPRelay)
 
+---
 # CDN / Edge Platforms
 
 1. [Cloudflare Workers](https://workers.cloudflare.com/)
-2. [Vercel](https://vercel.com/)
+2. [Vercel](https://vercel.com/)  
 3. [Netlify](https://www.netlify.com/)
 4. [Fastly Compute](https://www.fastly.com/products/edge-compute)
 5. [Fly.io](https://fly.io/)
