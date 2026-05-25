@@ -36,8 +36,8 @@ A curated list of tools, research projects, and techniques used to maintain acce
 
 ---
 # HTTP Relay / XHTTP / Edge Tunnel Methods
-[XHTTPRelayECO](https://github.com/B3hnamR/XHTTPRelayECO)
-[XHTTPRelay](https://github.com/B3hnamR/XHTTPRelay)
+1. [XHTTPRelayECO](https://github.com/B3hnamR/XHTTPRelayECO)
+2. [XHTTPRelay](https://github.com/B3hnamR/XHTTPRelay)
 
 ---
 # CDN / Edge Platforms
