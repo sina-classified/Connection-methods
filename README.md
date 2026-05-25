@@ -32,7 +32,7 @@ A curated list of tools, research projects, and techniques used to maintain acce
 # Personal Server + CDN Methods
 
 1. [GooseRelayVPN](https://github.com/Kianmhz/GooseRelayVPN)
-2. [Skirk](https://github.com/ProxyPanel/Skirk)
+2. [Skirk](https://github.com/ShahabSL/Skirk)
 3. [FlowDriver](https://github.com/FlowSeal/FlowDriver)
 
 ---
