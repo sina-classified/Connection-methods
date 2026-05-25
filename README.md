@@ -21,10 +21,10 @@ A curated list of tools, research projects, and techniques used to maintain acce
 
 1. [MasterHttpRelayVPN](https://github.com/masterking32/MasterHttpRelayVPN)
 2. [MasterHttpRelayVPN-RUST](https://github.com/therealaleph/MasterHttpRelayVPN-RUST)
-3. [MHR-CFW](https://github.com/denuitt1/mhr-cfw)
-4. [mhr-cfw-go](https://github.com/ThisIsDara/mhr-cfw-go)
-5. [Zyrln](https://github.com/ajavadinezhad/zyrln)
-6. [mhr-ggate](https://github.com/Vuks1n/mhr-ggate)
+3. [mhr-ggate](https://github.com/batus5678/mhr-ggate)
+4. [MHR-CFW](https://github.com/denuitt1/mhr-cfw)
+5. [mhr-cfw-go](https://github.com/ThisIsDara/mhr-cfw-go)
+6. [Zyrln](https://github.com/ajavadinezhad/zyrln)
 7. [GooseRelayVPN](https://github.com/Kianmhz/GooseRelayVPN) 
 
 ---
