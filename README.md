@@ -80,6 +80,7 @@ A curated list of tools, research projects, and techniques used to maintain acce
 ---
 # Tools
 1. [BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel)
+2. [BPB-Wizard](https://github.com/bia-pain-bache/BPB-Wizard/releases/tag/v2.1.9)
 2. [3x-ui](https://github.com/MHSanaei/3x-ui)
 3. [Meli-Action](https://github.com/Kurdeus/Meli-Action)
 4. [ircf](https://ircf.space/)
