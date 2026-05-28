@@ -42,15 +42,16 @@ A curated list of tools, research projects, and techniques used to maintain acce
 1. [XHTTPRelayECO](https://github.com/B3hnamR/XHTTPRelayECO) + [Vercel](https://vercel.com/)  
 2. [XHTTPRelay](https://github.com/B3hnamR/XHTTPRelay)
 3. [XHTTP-Installer](https://github.com/avacocloud/XHTTP-Installer)
+4. [IR_NETLIFY-RELAY](https://github.com/IR-NETLIFY/IR_NETLIFY-RELAY)
+5. [netlify-relay](https://github.com/amirshaker000/netlify-relay)
 
 ---
 # CDN / Edge Platforms
 
 1. [Cloudflare Workers](https://workers.cloudflare.com/)
-2. [IR_NETLIFY-RELAY](https://github.com/IR-NETLIFY/IR_NETLIFY-RELAY)
+2. [Fly.io](https://fly.io/)
 3. [Render](https://render.com/)
 4. [Fastly Compute](https://www.fastly.com/products/edge-compute)
-5. [Fly.io](https://fly.io/)
 
 
 ---
