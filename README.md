@@ -62,9 +62,11 @@ A curated list of tools, research projects, and techniques used to maintain acce
 # SNI-Spoofing
 1. [SNI-Spoofing-patterniha](https://github.com/patterniha/SNI-Spoofing)
 2. [SNI-Spoofing-B3hnamR](https://github.com/B3hnamR/SNI-Spoofing-Pro)
-3. [SNI-Spoofing-Go-shahin-saeidpour](https://github.com/shahin-saeidpour/SNI-Spoofing-Go)
-4. [SNI-Spoofing-Go-aleskxyz](https://github.com/aleskxyz/SNI-Spoofing-Go)
-5. [rm-sni-spoofer](https://github.com/rm-rfd/rm-sni-spoofer)
+3. [SNI-Spoofing-rust](https://github.com/therealaleph/sni-spoofing-rust)
+4. [SNI-Spoofing-Go-shahin-saeidpour](https://github.com/shahin-saeidpour/SNI-Spoofing-Go)
+5. [SNI-Spoofing-Go-aleskxyz](https://github.com/aleskxyz/SNI-Spoofing-Go)
+6. [SNI-Spoofing-macOS](https://github.com/g3ntrix/Cloak)
+7. [rm-sni-spoofer](https://github.com/rm-rfd/rm-sni-spoofer)
 
 
 
