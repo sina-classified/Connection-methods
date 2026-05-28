@@ -87,7 +87,7 @@ A curated list of tools, research projects, and techniques used to maintain acce
 7. [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)
 8. [ByeDPI](https://github.com/hufrea/byedpi)
 9. [Geneva](https://github.com/Kkevsterrr/geneva)
-10.[BaleVPN](https://github.com/kookoo1sabzy/BaleVPN/tree/main)
+10. [BaleVPN](https://github.com/kookoo1sabzy/BaleVPN)
 
 ---
 # Monitoring tools and Radar
