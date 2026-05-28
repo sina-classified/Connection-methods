@@ -84,6 +84,7 @@ A curated list of tools, research projects, and techniques used to maintain acce
 2. [3x-ui](https://github.com/MHSanaei/3x-ui)
 3. [Meli-Action](https://github.com/Kurdeus/Meli-Action)
 4. [ircf](https://ircf.space/)
+5. [SenPaiScanner](https://github.com/MatinSenPai/SenPaiScanner)
 ---
 
 # Related Techniques
