@@ -87,6 +87,10 @@ A curated list of tools, research projects, and techniques used to maintain acce
 4. [ircf](https://ircf.space/)
 5. [SenPaiScanner](https://github.com/MatinSenPai/SenPaiScanner)
 
+
+---
+# what ISP what methods work 
+https://docs.google.com/spreadsheets/d/1Rxb3zDiJL-knKZeoYhFKFU25Di6bOsjmlvcpxfskvow/edit?usp=sharing
 ---
 
 # Related Techniques
