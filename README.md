@@ -27,7 +27,8 @@ A curated list of tools, research projects, and techniques used to maintain acce
 4. [MHR-CFW](https://github.com/denuitt1/mhr-cfw)
 5. [mhr-cfw-go](https://github.com/ThisIsDara/mhr-cfw-go)
 6. [Zyrln](https://github.com/ajavadinezhad/zyrln)
-7. [GooseRelayVPN](https://github.com/Kianmhz/GooseRelayVPN) 
+7. [GooseRelayVPN](https://github.com/Kianmhz/GooseRelayVPN)
+8. [mhr-vps-worker](https://github.com/aliasoblomov/mhr-vps-worker/tree/main)
 
 ---
 
