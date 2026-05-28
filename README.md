@@ -37,7 +37,7 @@ A curated list of tools, research projects, and techniques used to maintain acce
 
 ---
 # HTTP Relay / XHTTP  + Personal Server
-1. [XHTTPRelayECO](https://github.com/B3hnamR/XHTTPRelayECO)
+1. [XHTTPRelayECO](https://github.com/B3hnamR/XHTTPRelayECO) + [Vercel](https://vercel.com/)  
 2. [XHTTPRelay](https://github.com/B3hnamR/XHTTPRelay)
 3. [XHTTP-Installer](https://github.com/avacocloud/XHTTP-Installer)
 
@@ -45,11 +45,11 @@ A curated list of tools, research projects, and techniques used to maintain acce
 # CDN / Edge Platforms
 
 1. [Cloudflare Workers](https://workers.cloudflare.com/)
-2. [Vercel](https://vercel.com/)  
-3. [Netlify](https://www.netlify.com/)
+2. [IR_NETLIFY-RELAY](https://github.com/IR-NETLIFY/IR_NETLIFY-RELAY)
+3. [Render](https://render.com/)
 4. [Fastly Compute](https://www.fastly.com/products/edge-compute)
 5. [Fly.io](https://fly.io/)
-6. [Render](https://render.com/)
+
 
 ---
 # SNI-Spoofing
