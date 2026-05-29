@@ -17,7 +17,7 @@ A curated list of tools, research projects, and techniques used to maintain acce
 4. [noizdns-deploy](https://github.com/anonvector/noizdns-deploy)
 5. [SlipNet](https://github.com/anonvector/SlipNet/tree/main)
 6. [MITM-DomainFronting](https://github.com/patterniha/MITM-DomainFronting)
-7. (StormDNS)[https://github.com/nullroute1970/StormDNS]
+7. [StormDNS](https://github.com/nullroute1970/StormDNS)
 
 ---
 
